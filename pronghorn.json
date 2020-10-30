@@ -11,11 +11,11 @@
   "methods": [
     {
   "name": "getRecord",
-  "summary": "Get Change Tickets",
+  "summary": "Get Change Ticket",
   "description": "Get the first ServiceNow change management ticket.",
   "input": [],
   "output": {
-    "name": "changeTickets",
+    "name": "changeTicket",
     "type": "array",
     "description": "An array of objects. Each element is a change management ticket document.",
     "schema": {
